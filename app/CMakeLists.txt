@@ -1,2 +1,2 @@
 add_executable(Executable main.cc)
-target_link_libraries(Executable PUBLIC SingleResponsibility OpenClosed LiskovSubstitution DependencyInversion)
+target_link_libraries(Executable PUBLIC SingleResponsibility OpenClosed LiskovSubstitution DependencyInversion Builder)
